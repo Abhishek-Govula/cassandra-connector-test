@@ -69,5 +69,11 @@
 				</executions>
 			</plugin>
 		</plugins>
+
+		<resources>
+			<resource>
+				<directory>resource</directory>
+			</resource>
+		</resources>
 	</build>
 </project>
